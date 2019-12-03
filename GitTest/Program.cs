@@ -13,6 +13,7 @@ namespace GitTest
             Console.Write("gitTEst");
             Console.ReadKey();
             Console.WriteLine("dfsz");
+            System.Console.WriteLine("发生");
         }
     }
 }
