@@ -11,10 +11,8 @@ namespace GitTest
         static void Main(string[] args)
         {
             Console.Write("gitTEst");
+            Console.WriteLine("这是一个测试案例");
             Console.ReadKey();
-            Console.WriteLine("dfsz");
-            System.Console.WriteLine("hellow word");
-            System.Console.WriteLine("反攻倒算");
         }
     }
 }
