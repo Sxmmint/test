@@ -13,7 +13,8 @@ namespace GitTest
             Console.Write("gitTEst");
             Console.ReadKey();
             Console.WriteLine("dfsz");
-            System.Console.WriteLine("发生");
+            System.Console.WriteLine("hellow word");
+            System.Console.WriteLine("反攻倒算");
         }
     }
 }
